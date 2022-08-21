@@ -1,5 +1,0 @@
-config BR2_PACKAGE_USER_SPACE_PROGRAM
-	bool "user_space_program"
-	depends on BR2_LINUX_KERNEL
-	help
-	  Linux User Space Program Cheat.

@@ -1,0 +1,5 @@
+config BR2_PACKAGE_USERSPACE_PROGRAM
+	bool "userspace_program"
+	depends on BR2_LINUX_KERNEL
+	help
+	  Linux Userspace Program Cheat.

@@ -1,0 +1,2 @@
+source "$BR2_EXTERNAL_EXTERNAL_PACKAGES_PATH/package/kernel_module/Config.in"
+source "$BR2_EXTERNAL_EXTERNAL_PACKAGES_PATH/package/userspace_program/Config.in"
